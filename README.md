@@ -1,5 +1,7 @@
 <h1> Site URL: https://storybook-taskbox.surge.sh/ </h1>
 
+<h1> Storybook URL: https://5ff5fa49816aa60021b79997-dettcglqwp.chromatic.com/?path=/story/inboxscreen--default </h1>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
